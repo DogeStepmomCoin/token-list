@@ -184615,6 +184615,21 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "5yrNgK13D1jhrxaVuqNmvZ1chJEbeTenwrWKzgj7pPMg",
+      "symbol": "DOGESM",
+      "name": "Doge Stepmom Coin",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/DogeStepmomCoin/token-list/main/assets/mainnet/5yrNgK13D1jhrxaVuqNmvZ1chJEbeTenwrWKzgj7pPMg.png",
+      "tags": [
+        "meme"
+      ],
+      "extensions": {
+        "telegram": "https://t.me/DogeStepmomCoin",
+        "twitter": "https://twitter.com/solventprotocol"
+      }
     }
   ],
   "version": {
